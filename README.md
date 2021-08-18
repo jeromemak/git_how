@@ -30,4 +30,5 @@ just follow this page
 - git branch -d branch name -> delete branch
 - git merge master -> this updates ur branch into new master from other ppls changes
 
+###pull changes
 
