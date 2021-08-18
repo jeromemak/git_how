@@ -17,10 +17,18 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 just follow this page
 
 ###branching
+<<<<<<< HEAD
+
+
+###this is a test for branch
+
+
+=======
 - git branch
 - git checkout -b branchname -> -b to make a branch
 - git diff other_branch_name -> check diff
 - git branch -d branch name -> delete branch
 - git merge master -> this updates ur branch into new master from other ppls changes
 
+###pull changes
 
