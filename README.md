@@ -17,6 +17,7 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 just follow this page
 
 ###branching
+<<<<<<< HEAD
 
 git branch
 git checkout -b branchname -> -b to make a branch
@@ -25,4 +26,10 @@ git diff other_branch_name -> check diff
 ###this is a test for branch
 
 
+=======
+- git branch
+- git checkout -b branchname -> -b to make a branch
+- git diff other_branch_name -> check diff
+-
+>>>>>>> 89d303b1ad78dc3d63222ca4137602dfdc8797d3
 
