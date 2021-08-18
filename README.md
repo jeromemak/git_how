@@ -13,12 +13,8 @@
 
 
 ###generating ssh key
-- ssh-keygen -t rsa -b 4096 -C "ctmakab@connect.ust.hk"
-- then leave empty for passcode
--  ls | grep key -> search for the key
-- key and key.pub -> key use math to gen key.pub -> put it in github to prof is u
--  cat key.pub -> show the key
-- pbcopy < ~/Users/jeromemak/.ssh/id_rsa/key -> copy the key
-   
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+just follow this page
+
 
 
