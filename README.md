@@ -32,3 +32,7 @@ just follow this page
 
 ###pull changes
 
+##sources
+
+http://rogerdudler.github.io/git-guide/
+
